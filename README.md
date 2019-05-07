@@ -1,98 +1,99 @@
 # PAT_Basic
 
 博客地址：[叫我皮卡丘](https://blog.csdn.net/liyuanyue2017/article/details/79811740)
-| 标号 | 标题                     | 题解                                                         | 备注           |
-| ---- | ------------------------ | ------------------------------------------------------------ | -------------- |
-| 1001 | 害死人不偿命的(3n+1)猜想 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79784340) | 模拟           |
-| 1002 | 写出这个数               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79793892) | 字符串处理     |
-| 1003 | 我要通过！               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79797600) | 找规律         |
-| 1004 | 成绩排行                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79803398) | 查找           |
-| 1005 | 继续(3n+1)猜想           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79811677) | 桶排标记       |
-| 1006 | 换个格式输出整数         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79811753) | 字符串处理     |
-| 1007 | 素数对猜想               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79811760) | 素数           |
-| 1008 | 数组元素循环右移         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79817444) | 模拟           |
-| 1009 | 说反话                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79821139) | 字符串处理     |
-| 1010 | 一元多项式求导           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79823869) | 模拟           |
-| 1011 | A+B和C                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79824348) | 模拟           |
-| 1012 | 数字分类                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79828498) | 模拟           |
-| 1013 | 数素数                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79828696) | 素数           |
-| 1014 | 福尔摩斯的约会           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79830950) | 模拟           |
-| 1015 | 德才论                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79836456) | 排序           |
-| 1016 | 部分A+B                  | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842438) | 模拟           |
-| 1017 | A除以B                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842550) | 字符串处理     |
-| 1018 | 锤子剪刀布               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842620) | 模拟           |
-| 1019 | 数字黑洞                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842791) | 模拟           |
-| 1020 | 月饼                     | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842868) | 背包问题       |
-| 1021 | 个位数统计               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842957) | 字符串处理     |
-| 1022 | D进制的A+B               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842994) | 进制转换       |
-| 1023 | 组个最小数               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79843040) | 桶排序         |
-| 1024 | 科学记数法               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79853182) | 字符串处理     |
-| 1025 | 反转链表                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79875966) | 链表           |
-| 1026 | 程序运行时间             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79882575) | 模拟           |
-| 1027 | 打印沙漏                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79887366) | 图形输出       |
-| 1028 | 人口普查                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79898349) | 日期处理       |
-| 1029 | 旧键盘                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79898703) | 字符串处理     |
-| 1030 | 完美数列                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79906198) | 模拟           |
-| 1031 | 查验身份证               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79908336) | 字符串处理     |
-| 1032 | 挖掘机技术哪家强         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79908620) | 查找元素       |
-| 1033 | 旧键盘打字               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79909117) | 字符串处理     |
-| 1034 | 有理数四则运算           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79915256) | 分数的四则运算 |
-| 1035 | 插入与归并               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79923794) | 排序           |
-| 1036 | 跟奥巴马一起编程         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79931342) | 图形打印       |
-| 1037 | 在霍格沃茨找零钱         | [查找题解](https://blog.csdn.net/liyuanyue2017/article/details/79932835) | 进制转换       |
-| 1038 | 统计同成绩学生           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79933266) | 桶排序         |
-| 1039 | 到底买不买               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79934963) | 桶排序         |
-| 1040 | 有几个PAT                | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79939632) | 模拟           |
-| 1041 | 考试座位号               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941703) | 查找           |
-| 1042 | 字符统计                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941761) | 桶排序         |
-| 1043 | 输出PATest               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941851) | 桶排序         |
-| 1044 | 火星数字                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941971) | 字符串处理     |
-| 1045 | 快速排序                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79963752) | 快速排序       |
-| 1046 | 划拳                     | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79964462) | 水题           |
-| 1047 | 编程团体赛               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79964601) | 桶排序         |
-| 1048 | 数字加密                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79969068) | 字符串处理     |
-| 1049 | 数列的片段和             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79969077) | 找规律         |
-| 1050 | 螺旋矩阵                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79976649) | 模拟           |
-| 1051 | 复数乘法                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79991730) | 模拟           |
-| 1052 | 卖个萌                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79992134) | 字符串处理     |
-| 1053 | 住房空置率               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79999347) | 模拟           |
-| 1054 | 求平均值                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80026589) | 字符串处理     |
-| 1055 | 集体照                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80031360) | 排序           |
-| 1056 | 组合数的和               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80031607) | 组合           |
-| 1057 | 数零壹                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80032921) | 字符串处理     |
-| 1058 | 选择题                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80039114) | 字符串处理     |
-| 1059 | C语言竞赛                | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80039413) | 标记数组       |
-| 1060 | 爱丁顿数                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80045367) | 查找           |
-| 1061 | 判断题                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80064552) | 判断题         |
-| 1062 | 最简分数                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80066386) | 分数化简       |
-| 1063 | 计算谱半径               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80075617) | 找最大值       |
-| 1064 | 朋友数                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80075869) | 桶排序         |
-| 1065 | 单身狗                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80079710) | 逻辑题         |
-| 1066 | 图像过滤                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80079991) | 模拟           |
-| 1067 | 试密码                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80080787) | 字符串处理     |
-| 1068 | 万绿丛中一点红           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80082485) | 逻辑题         |
-| 1069 | 微博转发抽奖             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80087588) | map映射        |
-| 1070 | 结绳                     | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80094291) | 逻辑题         |
-| 1071 | 小赌怡情                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80112842) | 模拟           |
-| 1072 | 开学寄语                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80113057) | 集合           |
-| 1073 | 多选题常见计分法         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80141165) | 模拟           |
-| 1074 | 宇宙无敌加法器           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80151222) | 字符串处理     |
-| 1075 | 链表元素分类             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80156778) | 链表           |
-| 1076 | Wifi密码                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80158072) | 字符串处理     |
-| 1077 | 互评成绩计算             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80158237) | 模拟           |
-| 1078 | 字符串压缩与解压         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80161488) | 字符串处理     |
-| 1079 | 延迟的回文数             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80176228) | 模拟           |
-| 1080 | MOOC期末成绩             | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80200124) | 集合           |
-| 1081 | 检查密码                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80200550) | 模拟           |
-| 1082 | 射击比赛                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80200663) | 模拟           |
-| 1083 | 是否存在相等的差         | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80201019) | 桶排           |
-| 1084 | 外观数组                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80211646) | 字符串处理     |
-| 1085 | PAT单位排行              | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80212331) | map映射        |
-| 1086 | 就不告诉你               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/82978299) | 模拟           |
-| 1087 | 有多少不同的值           | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/82994562) | 模拟           |
-| 1088 | 三人行                   | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/82995592) | 模拟           |
-| 1089 | 狼人杀-简单版            | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/83048805) | vector         |
-| 1090 | 危险品装箱               | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/83094609) | 模拟           |
-| 1091 | N-自守树                 | [查看题解](https://blog.csdn.net/liyuanyue2017/article/details/89873470) | 模拟           |
 
+|标号|标题|题解|备注|
+|:----:|:----:|:---:|:---:|
+|1001|害死人不偿命的(3n+1)猜想|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79784340)|模拟|
+|1002|写出这个数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79793892)|字符串处理|
+|1003|我要通过！|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79797600)|找规律|
+|1004|成绩排行|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79803398)|查找|
+|1005|继续(3n+1)猜想|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79811677)|桶排标记|
+|1006|换个格式输出整数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79811753)|字符串处理|
+|1007|素数对猜想|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79811760)|素数|
+|1008|数组元素循环右移|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79817444)|模拟|
+|1009|说反话|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79821139)|字符串处理|
+|1010|一元多项式求导|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79823869)|模拟|
+|1011|A+B和C|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79824348)|模拟|
+|1012|数字分类|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79828498)|模拟|
+|1013|数素数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79828696)|素数|
+|1014|福尔摩斯的约会|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79830950)|模拟|
+|1015|德才论|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79836456)|排序|
+|1016|部分A+B|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842438)|模拟|
+|1017|A除以B|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842550)|字符串处理|
+|1018|锤子剪刀布|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842620)|模拟|
+|1019|数字黑洞|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842791)|模拟|
+|1020|月饼|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842868)|背包问题|
+|1021|个位数统计|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842957)|字符串处理|
+|1022|D进制的A+B|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79842994)|进制转换|
+|1023|组个最小数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79843040)|桶排序|
+|1024|科学记数法|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79853182)|字符串处理|
+|1025|反转链表|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79875966)|链表|
+|1026|程序运行时间|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79882575)|模拟|
+|1027|打印沙漏|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79887366)|图形输出|
+|1028|人口普查|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79898349)|日期处理|
+|1029|旧键盘|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79898703)|字符串处理|
+|1030|完美数列|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79906198)|模拟|
+|1031|查验身份证|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79908336)|字符串处理|
+|1032|挖掘机技术哪家强|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79908620)|查找元素|
+|1033|旧键盘打字|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79909117)|字符串处理|
+|1034|有理数四则运算|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79915256)|分数的四则运算|
+|1035|插入与归并|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79923794)|排序|
+|1036|跟奥巴马一起编程|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79931342)|图形打印|
+|1037|在霍格沃茨找零钱|[查找题解](https://blog.csdn.net/liyuanyue2017/article/details/79932835)|进制转换|
+|1038|统计同成绩学生|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79933266)|桶排序|
+|1039|到底买不买|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79934963)|桶排序|
+|1040|有几个PAT|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79939632)|模拟|
+|1041|考试座位号|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941703)|查找|
+|1042|字符统计|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941761)|桶排序|
+|1043|输出PATest|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941851)|桶排序|
+|1044|火星数字|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79941971)|字符串处理|
+|1045|快速排序|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79963752)|快速排序|
+|1046|划拳|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79964462)|水题|
+|1047|编程团体赛|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79964601)|桶排序|
+|1048|数字加密|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79969068)|字符串处理|
+|1049|数列的片段和|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79969077)|找规律|
+|1050|螺旋矩阵|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79976649)|模拟|
+|1051|复数乘法|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79991730)|模拟|
+|1052|卖个萌|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79992134)|字符串处理|
+|1053|住房空置率|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/79999347)|模拟|
+|1054|求平均值|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80026589)|字符串处理|
+|1055|集体照|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80031360)|排序|
+|1056|组合数的和|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80031607)|组合|
+|1057|数零壹|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80032921)|字符串处理|
+|1058|选择题|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80039114)|字符串处理|
+|1059|C语言竞赛|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80039413)|标记数组|
+|1060|爱丁顿数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80045367)|查找|
+|1061|判断题|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80064552)|判断题|
+|1062|最简分数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80066386)|分数化简|
+|1063|计算谱半径|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80075617)|找最大值|
+|1064|朋友数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80075869)|桶排序|
+|1065|单身狗|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80079710)|逻辑题|
+|1066|图像过滤|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80079991)|模拟|
+|1067|试密码|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80080787)|字符串处理|
+|1068|万绿丛中一点红|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80082485)|逻辑题|
+|1069|微博转发抽奖|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80087588)|map映射|
+|1070|结绳|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80094291)|逻辑题|
+|1071|小赌怡情|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80112842)|模拟|
+|1072|开学寄语|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80113057)|集合|
+|1073|多选题常见计分法|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80141165)|模拟|
+|1074|宇宙无敌加法器|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80151222)|字符串处理|
+|1075|链表元素分类|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80156778)|链表|
+|1076|Wifi密码|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80158072)|字符串处理|
+|1077|互评成绩计算|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80158237)|模拟|
+|1078|字符串压缩与解压|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80161488)|字符串处理|
+|1079|延迟的回文数|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80176228)|模拟|
+|1080|MOOC期末成绩|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80200124)|集合|
+|1081|检查密码|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80200550)|模拟|
+|1082|射击比赛|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80200663)|模拟|
+|1083|是否存在相等的差|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80201019)|桶排|
+|1084|外观数组|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80211646)|字符串处理|
+|1085|PAT单位排行|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/80212331)|map映射|
+|1086|就不告诉你|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/82978299)|模拟|
+|1087|有多少不同的值|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/82994562)|模拟|
+|1088|三人行|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/82995592)|模拟|
+|1089|狼人杀-简单版|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/83048805)|vector|
+|1090|危险品装箱|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/83094609)|模拟|
+|1091|N-自守树|[查看题解](https://blog.csdn.net/liyuanyue2017/article/details/89873470)|模拟|
 未完待续，持续更新
+
